@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "dishaApp",
-    "slug": "dishaApp",
+    "name": "futureguide",
+    "slug": "futureguide",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -20,10 +20,25 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.jayasri1171.futureguide"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "42c8f04f-5470-4d63-8183-065f7a40efa6"
+      }
+    },
+    "owner": "jayasri1171",
+    "runtimeVersion": {
+      "version": "1.0.1"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/42c8f04f-5470-4d63-8183-065f7a40efa6",
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
     }
   }
 }
