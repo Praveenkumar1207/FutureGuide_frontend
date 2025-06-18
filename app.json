@@ -33,6 +33,7 @@
     },
     "owner": "jayasri1171",
     "runtimeVersion": {
+      "policy": "appVersion",
       "version": "1.0.1"
     },
     "updates": {
