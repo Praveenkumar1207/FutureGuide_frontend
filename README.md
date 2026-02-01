@@ -2,6 +2,13 @@
 
 **Future Guide** is an AI-powered personalized career guidance platform designed to help students and professionals navigate their career paths. The application provides tools for resume analysis, job compatibility checking, and automated roadmap generation tailored to specific career goals.
 
+## 📥 Download & Demo
+
+You can access the project files, including the APK/documentation, via the official Drive link:
+> **[Download Future Guide Project](https://drive.google.com/file/d/1c52XePSgCIqXnhRABbUu3hOWl-POBK-G/view?usp=drivesdk)**
+
+---
+
 ## 🌟 Key Features
 
 * **AI Resume Analyzer:** Get a detailed score based on grammar, content, clarity, and impact with actionable feedback.
@@ -33,4 +40,4 @@ FutureGuide_frontend/
 │   ├── Interview/      # Q/A Prep & Feedback
 │   └── Settings/       # Theme & Profile Management
 ├── services/           # API integration logic
-└── App.js              # Root application entry
+└── App.js              # Root application entry``
